@@ -1,0 +1,2 @@
+Man (wearing) ((Nike)) ((White)) ((T-Shirt)), ((Black)) ((Jeans)), (Image) , ((Full Body,3)).
+Steps: 10, Sampler: Euler, CFG scale: 7.0, Seed: 2135083545, Size: 512x512, Model hash: 51325cccd3, Model: training-1 (1), Denoising strength: 0, Version: v1.5.1

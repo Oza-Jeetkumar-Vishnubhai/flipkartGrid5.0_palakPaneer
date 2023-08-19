@@ -1,0 +1,5 @@
+prompt,seed,width,height,sampler,cfgs,steps,filename,negative_prompt
+Full Body image of { men wearing ((black tshirt)) and ((blue jeans))},126061271,512,512,Euler a,7,20,00000-126061271.png,
+Full Body image of {Man wearing ((blue tshirt))},4239139778,512,512,Euler a,7,20,00001-4239139778.png,
+Full Body image of {Man wearing ((blue tshirt))},4239139778,512,512,Euler a,7,20,00002-4239139778.png,
+Man {wearing ((Allen Solly Tshirt)) with ((Jeans)) and ((fossil watch))},2940731475,512,512,Euler a,7,20,00003-2940731475.png,

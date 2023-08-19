@@ -1,0 +1,36 @@
+{
+    "hashes": {
+        "checkpoint/training-4.ckpt": {
+            "mtime": 1691670835.673922,
+            "sha256": "eeaa741a9c4525d776e0eeb7a49fcc108418beaa421149b4be0379a241fb1229"
+        },
+        "checkpoint/training-5.ckpt": {
+            "mtime": 1691695482.8735137,
+            "sha256": "8b70616774a0750ee294eb8f1c72e12f29cfa4a03f5cffb3039614f3f1c30af7"
+        },
+        "checkpoint/training-5 (1).ckpt": {
+            "mtime": 1691692574.0389764,
+            "sha256": "8b70616774a0750ee294eb8f1c72e12f29cfa4a03f5cffb3039614f3f1c30af7"
+        },
+        "checkpoint/mdjrny-v4.ckpt": {
+            "mtime": 1691737770.9767172,
+            "sha256": "5d5ad06cc24170b32f25f0180a357e315848000c5f400ffda350e59142fabd68"
+        },
+        "checkpoint/training-1.ckpt": {
+            "mtime": 1691777903.6620102,
+            "sha256": "3f1b5c3c17f605ec12e0204ffda37afd10fa7e2da675299348f0149109e4fbe8"
+        },
+        "checkpoint/training-1 (1).ckpt": {
+            "mtime": 1692243374.7090075,
+            "sha256": "51325cccd39969899ac742ade21f47c43c07608195f8378438fab52695291929"
+        },
+        "checkpoint/instruct-pix2pix-00-22000.ckpt": {
+            "mtime": 1692292741.2084482,
+            "sha256": "ffd280ddcfc8234e4d28b93641cb83169cebcb4d70998df9ee2eabb4d705374a"
+        },
+        "checkpoint/dreamshaper_8.safetensors": {
+            "mtime": 1691837933.362201,
+            "sha256": "879db523c30d3b9017143d56705015e15a2cb5628762c11d086fed9538abd7fd"
+        }
+    }
+}
