@@ -1,0 +1,27 @@
+{
+  "name": "FliplookAi tool",
+  "version": "0.1.6",
+  "description": "Flipkart product scrapper",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://www.flipkart.com/*"],
+      "js": ["contentScript.js"],
+      "css": ["styles.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "oauth2": {
+    "client_id": "",
+    "scopes": ["https://www.googleapis.com/auth/userinfo.email"]
+  },
+  "permissions": ["identity", "activeTab", "storage"],
+  "background": {
+    "page": "background.html",
+    "persistant": false
+  },
+  "content_security_policy": "script-src 'self' https://www.gstatic.com/ https://*.firebaseio.com https://www.googleapis.com; object-src 'self'"
+}

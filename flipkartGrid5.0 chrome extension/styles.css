@@ -1,0 +1,39 @@
+
+
+.absolute-button-Bhindi {
+  position: fixed;
+  top: 78px;
+  right: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 30px;
+  z-index: 100;
+  height: 55px;
+  color: #e1d522;
+  background-color: #2874f0;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+  font-size: 10px;
+  font-weight: 100;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+#userImageBhindi {
+  height: 30px;
+  border-radius: 50px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+/* Apply the animation to the element */
+.background-success {
+  background-color: #00a601;
+  color: black;
+}
+
+.background-error {
+  background-color: #e90000;
+  color: white;
+}
