@@ -77,7 +77,7 @@ preferences, browsing habits, and the latest fashion trends.
 
 ## Installation
 ### Chrome Extension
-- Go to chrome extension dashboard, enable Developer mode and in load unpacked upload flipkartGrid5.0 chrome extension folder. Using this extension Id generate new OAuth 2.0 Client ID from google cloud add it to thr clientID in manifest.json
+- Go to chrome extension dashboard, enable Developer mode and click on load unpacked button and upload flipkartGrid5.0 chrome extension folder. By Using this extension Id generate new OAuth 2.0 Client ID from google cloud and add it to the clientID in manifest.json
 ```
   "oauth2": {
     "client_id": "",      //here...
