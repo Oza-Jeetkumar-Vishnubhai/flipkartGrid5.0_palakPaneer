@@ -6,8 +6,6 @@
 <p align="center">
 Conversational Fashion Outfit Generator powered by GenAI.
 </p>
-<details>
-<summary>Description</summary>
   
 With the advent of Generative AI, Search and finding a product is being revolutionised. We are
 moving away from a single open text box experience to something more conversational and this
@@ -45,7 +43,6 @@ The ultimate goal of the fashion outfit generator is to enhance the user's shopp
 Flipkart by providing them with personalized, trendy, and cohesive outfit ideas. Users should feel
 inspired and confident in their fashion choices, knowing that the generator has considered their
 preferences, browsing habits, and the latest fashion trends.
-</details>
 
 
 ## Tech Stack
