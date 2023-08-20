@@ -57,7 +57,7 @@ preferences, browsing habits, and the latest fashion trends.
 
 
 ## Demo Videos
-
+Please refer to the provided video timestamps for different topics
 | Topic             | Youtube link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | FliplookAi Chrome Extension | <a href="https://www.youtube.com/watch?v=l6OxSYhazdE&t=0s"><img src="https://cloud.appwrite.io/v1/storage/buckets/64de5752e52b4ff1afe1/files/64e1e1ea3343cd8d3faf/view?project=64de56dad1e7b4e01d6c&mode=admin" width="100"></a> |
